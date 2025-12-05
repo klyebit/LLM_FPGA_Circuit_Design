@@ -1,6 +1,8 @@
-**Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO**
+*Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO*
 
 **version 1.0**
+**Date:2025/12/5**
+**Author: Kailiang**
 
 ## Abstract
 
@@ -312,7 +314,7 @@ Any cooperation opportunities, please reach out to me.
 ```bibtex
 @article{LLMCIRCUIT2025,
   title = {Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO},
-  author = {Kailiang},
+  author = {Kailiang Ye},
   year = {2025},
   month={Nov},
   url={\url{[https://github.com/klyebit/LLM_FPGA_Circuit_Design.git]}
