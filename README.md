@@ -315,7 +315,7 @@ Any cooperation opportunities, please reach out to me.
   author = {Kailiang},
   year = {2025},
   month={Nov},
-  url={\url{[]}
+  url={\url{[https://github.com/klyebit/LLM_FPGA_Circuit_Design.git]}
 }
 ```
 
