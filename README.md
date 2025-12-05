@@ -1,4 +1,4 @@
-*Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO*
+# *Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO*
 
 **version 1.0**
 
