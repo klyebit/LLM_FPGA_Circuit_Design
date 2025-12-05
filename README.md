@@ -12,6 +12,8 @@ We propose an end-to-end framework that integrates a large language model (LLM) 
 
 -----
 
+![image](framework1.png)
+
 ## 1\. Introduction
 
 Automating hardware design flows — from high-level specifications to physical placement and routing — remains a central challenge in electronic design automation (EDA). The traditional toolchain splits the problem into multiple stages (synthesis, netlist generation, packing, placement, routing), each relying on specialized heuristics and algorithmic optimizations. Recent progress in large language models (LLMs) demonstrates the ability of these models to perform structured code generation and translation tasks across formats, suggesting the opportunity to use LLMs as flexible, semantic-aware components within an EDA pipeline (see Hu et al., 2021; Qwen model release).
