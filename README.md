@@ -100,11 +100,11 @@ $$
 \end{align*}
 $$
 
-where ($h_{\phi,\theta_0}(s)$) is transformer's output on state (s) (pure text tokens of the serialized netlist).
+where $h_\phi$ and $\theta_0$(s) is transformer's output on state (s) (pure text tokens of the serialized netlist).
 
 ### 5.3 GRPO: Group-normalized Advantages
 
-For each netlist ($N_i$), sample (k) placements ($\{p_{i,j}\}_{j=1}^k$) and obtain scalar rewards ($r_{i,j}$). Let group mean and std be ($\mu_{G_i}$, $\sigma_{G_i}$). The within-group normalized advantage:
+For each netlist ($N_i$), sample (k) placements and obtain scalar rewards $r_{i,j}$. Let group mean and std be ($\mu_{G_i}$, $\sigma_{G_i}$). The within-group normalized advantage:
 
 $$
 \begin{align*}
