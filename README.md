@@ -320,7 +320,7 @@ Any cooperation opportunities, please reach out to me.
   title = {LLM Circuit Design: Qwen Netlist-to-Placement training with GRPO},
   author = {Kailiang Ye},
   year = {2025},
-  month={Nov},
+  month={DEC},
   url={\url{[https://github.com/klyebit/LLM_FPGA_Circuit_Design.git]}
 }
 ```
