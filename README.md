@@ -1,4 +1,4 @@
-# *Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO*
+# *LLM Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO*
 
 **version 1.0**
 
@@ -317,7 +317,7 @@ Any cooperation opportunities, please reach out to me.
 
 ```bibtex
 @article{LLMCIRCUIT2025,
-  title = {Autonomous Circuit Design: Qwen Netlist-to-Placement Pretraining with GRPO},
+  title = {LLM Circuit Design: Qwen Netlist-to-Placement training with GRPO},
   author = {Kailiang Ye},
   year = {2025},
   month={Nov},
