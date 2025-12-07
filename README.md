@@ -12,7 +12,7 @@ We propose an end-to-end framework that integrates a large language model (LLM) 
 
 -----
 
-![image](framework1.png)
+![image](framework2.png)
 
 ## 1\. Introduction
 
