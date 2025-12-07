@@ -2,7 +2,7 @@
 
 **version 1.0**
 
-**Date:2025/12/5**
+**Date:2025/12/7**
 
 **Author: Kailiang**
 
@@ -304,7 +304,7 @@ For iteration = 1..N:
 
 ## 10\. Conclusion
 
-We present NetlistCoder: supervised Netlist→Placement pretraining for **Qwen**, LoRA adapter adaptation, and GRPO-based RL for placement. This preserves the base LLM knowledge while enabling placement-aware adaptation through pure textual understanding of netlists. Future work: stronger surrogate models, careful evaluation of end-to-end RL of adapters vs. base parameters, and large-scale validation with industrial flows.
+We present Coder: supervised Netlist→Placement pretraining for **Qwen**, LoRA adapter adaptation, and GRPO-based RL for placement. This preserves the base LLM knowledge while enabling placement-aware adaptation through pure textual understanding of netlists. Future work: stronger surrogate models, careful evaluation of end-to-end RL of adapters vs. base parameters, and large-scale validation with industrial flows.
 
 -----
 
